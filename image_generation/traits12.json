@@ -1,0 +1,107 @@
+[
+    {
+        "Background": "Baby Blue",
+        "Body": "Cyan",
+        "Fipper": "Black",
+        "Head": "None",
+        "tokenId": 0
+    },
+    {
+        "Background": "Mint",
+        "Body": "White",
+        "Fipper": "Blue",
+        "Head": "Smoke",
+        "tokenId": 1
+    },
+    {
+        "Background": "Mint",
+        "Body": "Blue",
+        "Fipper": "Cyan",
+        "Head": "None",
+        "tokenId": 2
+    },
+    {
+        "Background": "Mint",
+        "Body": "Pink",
+        "Fipper": "Orange",
+        "Head": "None",
+        "tokenId": 3
+    },
+    {
+        "Background": "Baby Yellow",
+        "Body": "Pink",
+        "Fipper": "Cyan",
+        "Head": "None",
+        "tokenId": 4
+    },
+    {
+        "Background": "Baby Cyan",
+        "Body": "Calico",
+        "Fipper": "Blue",
+        "Head": "Smoke Ring",
+        "tokenId": 5
+    },
+    {
+        "Background": "Baby Cyan",
+        "Body": "Cyan Blue",
+        "Fipper": "Blue",
+        "Head": "Smoke",
+        "tokenId": 6
+    },
+    {
+        "Background": "Baby Yellow",
+        "Body": "Calico",
+        "Fipper": "Black",
+        "Head": "None",
+        "tokenId": 7
+    },
+    {
+        "Background": "Baby Pink",
+        "Body": "Blue",
+        "Fipper": "Blue",
+        "Head": "Holy Water",
+        "tokenId": 8
+    },
+    {
+        "Background": "Baby Pink",
+        "Body": "Cyan",
+        "Fipper": "Black",
+        "Head": "Smoke Ring",
+        "tokenId": 9
+    },
+    {
+        "Background": "Baby Blue",
+        "Body": "Pink",
+        "Fipper": "Pink Purple",
+        "Head": "Fountain",
+        "tokenId": 10
+    },
+    {
+        "Background": "Grey",
+        "Body": "Pink",
+        "Fipper": "White",
+        "Head": "None",
+        "tokenId": 11
+    },
+    {
+        "Background": "Baby Cyan",
+        "Body": "Dalmation",
+        "Fipper": "Pink",
+        "Head": "None",
+        "tokenId": 12
+    },
+    {
+        "Background": "Mint",
+        "Body": "Blue",
+        "Fipper": "Blue",
+        "Head": "Holy Water",
+        "tokenId": 13
+    },
+    {
+        "Background": "Baby Cyan",
+        "Body": "Cyan Blue",
+        "Fipper": "Blue",
+        "Head": "None",
+        "tokenId": 14
+    }
+]

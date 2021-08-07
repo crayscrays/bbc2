@@ -1,0 +1,122 @@
+[
+    {
+        "Background": "Grey",
+        "Body": "White",
+        "Fipper": "White",
+        "Head": "Holy Water",
+        "tokenId": 0,
+        "imageIPFS": "QmbANgHrRg3LAXWqiPZgzjo2uEq3VnhCWqHAjWuyex2z1Z"
+    },
+    {
+        "Background": "Baby Yellow",
+        "Body": "Calico",
+        "Fipper": "Calico",
+        "Head": "None",
+        "tokenId": 1,
+        "imageIPFS": "QmSbaLf6Pk5SoMxDNfPettnx4wri1zsh9dkQFy6pCBcoKA"
+    },
+    {
+        "Background": "Baby Yellow",
+        "Body": "Blue",
+        "Fipper": "Blue",
+        "Head": "None",
+        "tokenId": 2,
+        "imageIPFS": "QmP39bNW7NDMq6wm7uP1nX6VawVmXRwkVX7h7KSoRfCWR4"
+    },
+    {
+        "Background": "Baby Yellow",
+        "Body": "Cyan",
+        "Fipper": "Cyan",
+        "Head": "Fountain",
+        "tokenId": 3,
+        "imageIPFS": "QmaqxXGB45tskW9z4hEa1b4ftg18RBfHCX8ecZZoa2wSL6"
+    },
+    {
+        "Background": "Baby Yellow",
+        "Body": "Black",
+        "Fipper": "Black",
+        "Head": "None",
+        "tokenId": 4,
+        "imageIPFS": "QmTayb1pxkT4wwLsW16ymdbi55uXt2C1cKS3Whrvyp7kLE"
+    },
+    {
+        "Background": "Mint",
+        "Body": "White",
+        "Fipper": "White",
+        "Head": "Smoke",
+        "tokenId": 5,
+        "imageIPFS": "QmccfTafozYogSu7emRfz6hxjgLmzLTPVNemV37FxJEuys"
+    },
+    {
+        "Background": "Baby Pink",
+        "Body": "Blue",
+        "Fipper": "Blue",
+        "Head": "None",
+        "tokenId": 6,
+        "imageIPFS": "QmcJ9dC6yojDDi5jGVsCXMkCZ1XyRaF1cvW5xRDazKSu6k"
+    },
+    {
+        "Background": "Baby Pink",
+        "Body": "Cyan Blue",
+        "Fipper": "Cyan Blue",
+        "Head": "None",
+        "tokenId": 7,
+        "imageIPFS": "QmS8mU17f4QuctqvjLAtBKHpwPcsYCGMWcE3qJV1t6oqiM"
+    },
+    {
+        "Background": "Mint",
+        "Body": "Blue",
+        "Fipper": "Blue",
+        "Head": "None",
+        "tokenId": 8,
+        "imageIPFS": "Qma5V8zDDrrDTfZc7H4ASFEgCrsExPef1YGNAWnL6kV6FH"
+    },
+    {
+        "Background": "Baby Pink",
+        "Body": "White",
+        "Fipper": "White",
+        "Head": "None",
+        "tokenId": 9,
+        "imageIPFS": "QmRxjWtk8R5SQ3iNQgEKaoz4wZMvGSidiUXeAP2bC8Qkfo"
+    },
+    {
+        "Background": "Mint",
+        "Body": "Cyan",
+        "Fipper": "Cyan",
+        "Head": "Smoke",
+        "tokenId": 10,
+        "imageIPFS": "QmbsxSs6DDXyvPcytV13jdZTJJJrBBRPBjqJbCmac3y16K"
+    },
+    {
+        "Background": "Baby Pink",
+        "Body": "Orange",
+        "Fipper": "Orange",
+        "Head": "Fountain",
+        "tokenId": 11,
+        "imageIPFS": "QmUB8o5z5RMQJCR73bqXt1GMqSSFY67mkcMnycnjUsTYAY"
+    },
+    {
+        "Background": "Grey",
+        "Body": "White",
+        "Fipper": "White",
+        "Head": "None",
+        "tokenId": 12,
+        "imageIPFS": "QmfBSXLYRturo4R2nT1g4vQGzy9b89o5QZWPjSG9GsSQSE"
+    },
+    {
+        "Background": "Baby Cyan",
+        "Body": "Cyan",
+        "Fipper": "Cyan",
+        "Head": "Smoke",
+        "tokenId": 13,
+        "imageIPFS": "QmfMpDeyGZsJ5pvNQStf231PP2z9d5RqnUWaB99aL2Ukkq"
+    },
+    {
+        "Background": "Mint",
+        "Body": "White",
+        "Fipper": "White",
+        "Head": "Holy Water",
+        "tokenId": 14,
+        "imageIPFS": "QmecYbxM2thEF78ua2pX7qLvRmtJ1A7hwXacxUHq61EbBv"
+    }
+]
